@@ -7,5 +7,5 @@ edition = "2024"
 criterion = { version = "0.8.1", features = ["html_reports"] }
 
 [[bench]]
-name = "timing_wheel"
+name = "hierarchical_timing_wheel"
 harness = false
